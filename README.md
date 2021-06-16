@@ -14,7 +14,7 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://github.com/thivyenk/TVK/blob/main/pic.PNG)
+![alt text](https://raw.githubusercontent.com/thivyenk/TVK/main/pic.PNG)
 
 <!-- Add your details -->
 
