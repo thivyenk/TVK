@@ -14,7 +14,7 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://raw.githubusercontent.com/thivyenk/TVK/main/pic.PNG)
+![alt text](https://github.com/thivyenk/TVK/blob/main/firewatch%20purple.jpg)
 
 <!-- Add your details -->
 
